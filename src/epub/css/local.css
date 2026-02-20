@@ -18,3 +18,8 @@
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
