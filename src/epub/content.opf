@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jorge-isaacs/maria/rollo-ogden</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-03-12T18:06:30Z</dc:date>
+		<meta property="dcterms:modified">2026-03-12T18:06:30Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,16 +41,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008101200</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">sh95008604-781</meta>
+		<meta property="term" refines="#subject-2">sh95008604–781</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man and his distant cousin, who suffers from a mysterious affliction, fall in love in the idyllic Colombian countryside.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Efraín is a young man growing up on an idyllic hacienda in Colombia’s Valle de Cauca department. Among his large and loving family is María, the abandoned daughter of Efraín’s father’s cousin, raised by Efraín’s father. The two fall in love; but Maria is haunted by a condition inherited from her mother that threatens death at a young age, and Efraín is sent to faraway lands to complete his education. Will the two be able to see their love blossom?&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;María&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/jorge-isaacs"&gt;Isaacs’&lt;/a&gt; only novel, is one of Colombia’s most famous literary works and one of the most important works of 19th century Latin American literature. It’s held up as a paragon of the costumbrist novel, a type of novel that depicts the everyday life of common people against a Romantic backdrop.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/unset0000unse_v7o4</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">71265</meta>
+		<meta property="se:reading-ease.flesch">80.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mar%C3%ADa</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jorge-isaacs_maria_rollo-ogden</meta>
 		<dc:creator id="author">Jorge Isaacs</dc:creator>
