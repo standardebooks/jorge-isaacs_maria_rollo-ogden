@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">María: A South American Romance</dc:title>
 		<meta property="file-as" refines="#fulltitle">María</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Colombia--Fiction</dc:subject>
 		<dc:subject id="subject-2">Colombia--Cauca River Valley</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
