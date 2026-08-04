@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh95008604–781</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man and his distant cousin, who suffers from a mysterious affliction, fall in love in the idyllic Colombian countryside.</dc:abstract>
+		<meta property="schema:abstract">A young man and his distant cousin, who suffers from a mysterious affliction, fall in love in the idyllic Colombian countryside.</meta>
 		<dc:description>
 			&lt;p&gt;Efraín is a young man growing up on an idyllic hacienda in Colombia’s Valle de Cauca department. Among his large and loving family is María, the abandoned daughter of Efraín’s father’s cousin, raised by Efraín’s father. The two fall in love; but Maria is haunted by a condition inherited from her mother that threatens death at a young age, and Efraín is sent to faraway lands to complete his education. Will the two be able to see their love blossom?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;María&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/jorge-isaacs"&gt;Isaacs’&lt;/a&gt; only novel, is one of Colombia’s most famous literary works and one of the most important works of 19th century Latin American literature. It’s held up as a paragon of the costumbrist novel, a type of novel that depicts the everyday life of common people against a Romantic backdrop.&lt;/p&gt;
